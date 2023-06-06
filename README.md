@@ -1,1 +1,1 @@
-My frist readme
+I am a Softwear engineer
